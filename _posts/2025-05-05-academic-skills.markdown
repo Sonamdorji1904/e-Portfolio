@@ -1,16 +1,18 @@
----
+----
 layout: default
-title: Academic Skills (ACS)
 modal-id: 1
-date: 2025-05-05
+date: 2025-02-25
 img: unit1.png
-alt: Academic Standards
-description: A detailed overview of academic skills and standards in higher education.
----
+alt: image-alt
+project-date: February 2025
+client: Sonam Dorji
+category: Portfolio
+description: Unit 1 Academic Standards
+----
 
 ### **Academic Skills (ACS)**
 
-**What is it?**
+**What is it?**  
 Academic Skills (ACS) is a foundational module designed to equip university students with essential academic competencies. It focuses on critical areas such as academic reading, listening, speaking, and note-taking.
 
 Through interactive and practical exercises, the module activates and strengthens students' latent academic abilities, fostering lifelong learning habits.
@@ -33,10 +35,10 @@ ACS helps students to:
 
 ### **Academic Standards**
 
-**What does it mean?**
+**What does it mean?**  
 Academic standards refer to the expected level of academic skills that university students must attain to achieve their goals with integrity and adherence to institutional conventions. These standards offer measurable benchmarks for individual and group academic performance.
 
-**Why Academic Standards?**
+**Why Academic Standards?**  
 To:
 
 * Equip students with a strong sense of academic integrity.
@@ -53,10 +55,10 @@ To:
 
 **Academic Integrity** is the fundamental principle underpinning academic standards.
 
-**What does it mean?**
+**What does it mean?**  
 Academic integrity involves maintaining honesty, fairness, and responsibility in all academic pursuits.
 
-**Why is it important?**
+**Why is it important?**  
 To:
 
 * Encourage creativity and original thought within the academic community.
@@ -109,5 +111,4 @@ AI can significantly impact academic performance—both positively and negativel
 * Avoid asking AI to rewrite or paraphrase your own assignments—it may lead to plagiarism.
 * Always cross-check AI-generated content with reliable sources.
 
-
-Thank you for reading my note and hope you will enjoy reading my notes on Unit 2. 
+Thank you for reading my note and hope you will enjoy reading my notes on Unit 2.
