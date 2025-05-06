@@ -1,10 +1,11 @@
 ---
 layout: default
+title: Academic Skills (ACS)
 modal-id: 1
-date: 2014-07-18
+date: 2025-05-05
 img: unit1.png
-alt: image-alt
-description:
+alt: Academic Standards
+description: A detailed overview of academic skills and standards in higher education.
 ---
 
 ### **Academic Skills (ACS)**
