@@ -2,7 +2,7 @@
 layout: default
 modal-id: 1
 date: 2025-02-25
-img: unit1.png
+img: img/portfolio/unit1.png
 alt: image-alt
 project-date: February 2025
 client: Sonam Dorji
