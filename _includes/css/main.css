@@ -96,6 +96,7 @@ header img {
     margin: 0 auto 20px;
     height: 256px;
     width: 256px;
+    border-radius: 50%;
 }
 
 header .intro-text .name {
